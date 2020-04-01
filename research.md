@@ -98,9 +98,9 @@ title: Research Activities
 ## Projects carried out as part of PhD Thesis at Monash University
 
 <div class="card-deck">
+
     <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
-        <img class="card-img-top" src="/images/mg2sn.jpg" alt="Card image
-            cap">
+        <img class="card-img-top" src="/images/mg2sn.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">First Principles Insights into Amorphous
                 Mg2Sn Alloy Anode for Mg-ion Batteries</p>
@@ -194,37 +194,38 @@ title: Research Activities
                 href="https://www.sciencedirect.com/science/article/abs/pii/S0378775314009033"
                 class="btn btn-primary">Link to Journal of Power Sources Paper</a>
         </div>
-        <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
-            <img class="card-img-top" src="/images/group14.jpg" alt="Card image
-                cap">
-            <div class="card-body">
-                <h5 class="card-title">Elastic softening of alloy negative
-                    electrodes for Na-ion batteries</h5>
-                <p class="card-text">
-                    Accurate description of the mechanical behavior of
-                    crystalline Na alloys is essential in establishing their
-                    electrochemical performance as well as their viability as
-                    anodes in Na-ion batteries. Using first principles
-                    simulations, we have investigated the intrinsic elastic
-                    properties of crystalline Na–M (M = Sn, Pb, Si and Ge)
-                    phases observed during Na intercalation. We have obtained
-                    the complete set of concentration-dependent anisotropic
-                    elastic constants as well as the average macroscopic elastic
-                    moduli of polycrystalline structures. We find that sodiation
-                    of pure M phases leads to a remarkable elastic softening
-                    that results in up to 75% deterioration of the elastic
-                    moduli. Our analysis of the electronic charge distribution
-                    demonstrates that the elastic softening during sodiation
-                    originates from a transition to weaker ionic interatomic
-                    bonding. Our results highlight the significance of the
-                    concentration dependence of the elastic moduli for the
-                    analysis of deformation behavior of Na alloy anodes of
-                    Na-ion batteries during sodiation and desodiation.</p>
-                <a
-                    href="https://www.sciencedirect.com/science/article/abs/pii/S037877531201600X"
-                    class="btn btn-primary">Link to Journal of Power Sources
-                    Paper</a>
-       </div>
+    </div>
+    <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
+        <img class="card-img-top" src="/images/group14.jpg" alt="Card image
+            cap">
+        <div class="card-body">
+            <h5 class="card-title">Elastic softening of alloy negative
+                electrodes for Na-ion batteries</h5>
+            <p class="card-text">
+                Accurate description of the mechanical behavior of
+                crystalline Na alloys is essential in establishing their
+                electrochemical performance as well as their viability as
+                anodes in Na-ion batteries. Using first principles
+                simulations, we have investigated the intrinsic elastic
+                properties of crystalline Na–M (M = Sn, Pb, Si and Ge)
+                phases observed during Na intercalation. We have obtained
+                the complete set of concentration-dependent anisotropic
+                elastic constants as well as the average macroscopic elastic
+                moduli of polycrystalline structures. We find that sodiation
+                of pure M phases leads to a remarkable elastic softening
+                that results in up to 75% deterioration of the elastic
+                moduli. Our analysis of the electronic charge distribution
+                demonstrates that the elastic softening during sodiation
+                originates from a transition to weaker ionic interatomic
+                bonding. Our results highlight the significance of the
+                concentration dependence of the elastic moduli for the
+                analysis of deformation behavior of Na alloy anodes of
+                Na-ion batteries during sodiation and desodiation.</p>
+            <a
+                href="https://www.sciencedirect.com/science/article/abs/pii/S037877531201600X"
+                class="btn btn-primary">Link to Journal of Power Sources
+                Paper</a>
+        </div>
     </div>
 </div>
 
