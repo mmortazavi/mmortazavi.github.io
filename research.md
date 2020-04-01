@@ -130,8 +130,7 @@ title: Research Activities
                 understand the widely used Mg2Sn alloy anode in MIBs.</p>
             <a
                 href="https://chemrxiv.org/articles/First_Principles_Insights_into_Amorphous_Mg2Sn_Alloy_Anode_for_Mg-ion_Batteries/6462887"
-                class="btn btn-primary">Link to CemrRxiv paper
-                (Nature)</a>
+                class="btn btn-primary">Link to CemrRxiv paper</a>
         </div>
     </div>
     <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
