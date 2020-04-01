@@ -4,7 +4,7 @@ title: Research Activities
 ---
 
 <div class="card-deck">
-    <div class="card text-white bg-dark mb-3" style="max-width: 22rem;">
+    <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
         <img class="card-img-top" src="/images/rotigotine.webp" alt="Card image
             cap">
         <div class="card-body">
@@ -20,7 +20,7 @@ title: Research Activities
                 class="btn btn-primary">link to paper</a>
         </div>
     </div>
-    <div class="card text-white bg-dark mb-3" style="max-width: 22rem;">
+    <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
         <img class="card-img-top" src="/images/structural_stability.jpg"
             alt="Card image cap">
         <div class="card-body">
@@ -37,7 +37,7 @@ title: Research Activities
                 class="btn btn-primary">link to paper</a>
         </div>
     </div>
-    <div class="card text-white bg-dark mb-3" style="max-width: 22rem;">
+    <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
         <img class="card-img-top" src="/images/mg2sn.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">First Principles Insights into AmorphousMg2Sn
