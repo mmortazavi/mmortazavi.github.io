@@ -103,7 +103,7 @@ title: Research Activities
         <img class="card-img-top" src="/images/mg2sn.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">First Principles Insights into Amorphous
-                Mg2Sn Alloy Anode for Mg-ion Batteries</p>
+                Mg2Sn Alloy Anode for Mg-ion Batteries</h5>
             <p class="card-text">Rechargeable Mg-ion batteries (MIBs) are an
                 advantageous alternative solution to Li-ion batteries in many
                 ways. Mg is safer and abundant in the Earth, and has a high
