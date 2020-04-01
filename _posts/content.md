@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Testi ng
-excerpt: "Heee?"
+title: Research Activites
+excerpt: "Okish"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
