@@ -266,7 +266,7 @@ title: Research Activities
         </div>
 
 
-        ## Master Thesis Reseacrch Project at BuAli Sina University
+## Master Thesis Reseacrch Project at BuAli Sina University
 
         <div class="card-deck">
             <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
