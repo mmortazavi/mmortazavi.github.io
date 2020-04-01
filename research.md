@@ -225,85 +225,49 @@ title: Research Activities
                     href="https://www.sciencedirect.com/science/article/abs/pii/S037877531201600X"
                     class="btn btn-primary">Link to Journal of Power Sources
                     Paper</a>
-            </div>
-            <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
-                <img class="card-img-top" src="/images/al-cnt.jpg" alt="Card
-                    image cap">
-                <div class="card-body">
-                    <h5 class="card-title">Fabrication and mechanical properties
-                        of MWCNTs-reinforced aluminum composites by hot
-                        extrusion</h5>
-                    <p class="card-text">
-                        Over the past decade, the interest in aluminum
-                        composites reinforced with carbon nanotubes has grown
-                        significantly. Studies have been carried out to overcome
-                        problems with uniform dispersion, interfacial bonding,
-                        void formation and carbide formation of the composites.
-                        In the present work, multi-wall carbon nanotubes
-                        (MWCNTs) aluminum composites were produced. High-energy
-                        ball milling with the aim at developing well-dispersed
-                        MWCNTs Al composites was followed by cold compaction,
-                        sintering, and hot extrusion at 500 °C. Different
-                        amounts of stearic acid as processing control agent
-                        (PCA) is used in order to minimize cold welding of the
-                        Al particles, and to produce finer particles.
-                        Differential scanning calorimetry (DSC), scanning
-                        electron microscopy (SEM), transmission electron
-                        microscopy (TEM), and X-ray diffraction (XRD) were
-                        employed to analyze the MWCNTs, the aluminum powder, and
-                        the composites’ microstructural behavior. The hardness
-                        and tensile properties of the composites are also
-                        evaluated. The results showed 500% increase in yield
-                        stress after the addition of 1 wt% MWCNTs in Al-MWCNTs
-                        based composite. The ball-milling time of 4 h is found
-                        to be sufficient as excessive milling time destroys a
-                        vast number of MWCNTs.</p>
-                    <a
-                        href="https://link.springer.com/article/10.1007/s12598-012-0523-6"
-                        class="btn btn-primary">Link to J. Rare Metals Paper</a>
-                </div>
-            </div>
-        </div>
+       </div>
+    </div>
+</div>
 
 
 ## Master Thesis Reseacrch Project at BuAli Sina University
 
-        <div class="card-deck">
-            <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
-                <img class="card-img-top" src="/images/al-cnt.jpg" alt="Card
-                    image cap">
-                <div class="card-body">
-                    <h5 class="card-title">Fabrication and mechanical properties
-                        of MWCNTs-reinforced aluminum composites by hot
-                        extrusion</h5>
-                    <p class="card-text">
-                        Over the past decade, the interest in aluminum
-                        composites reinforced with carbon nanotubes has grown
-                        significantly. Studies have been carried out to overcome
-                        problems with uniform dispersion, interfacial bonding,
-                        void formation and carbide formation of the composites.
-                        In the present work, multi-wall carbon nanotubes
-                        (MWCNTs) aluminum composites were produced. High-energy
-                        ball milling with the aim at developing well-dispersed
-                        MWCNTs Al composites was followed by cold compaction,
-                        sintering, and hot extrusion at 500 °C. Different
-                        amounts of stearic acid as processing control agent
-                        (PCA) is used in order to minimize cold welding of the
-                        Al particles, and to produce finer particles.
-                        Differential scanning calorimetry (DSC), scanning
-                        electron microscopy (SEM), transmission electron
-                        microscopy (TEM), and X-ray diffraction (XRD) were
-                        employed to analyze the MWCNTs, the aluminum powder, and
-                        the composites’ microstructural behavior. The hardness
-                        and tensile properties of the composites are also
-                        evaluated. The results showed 500% increase in yield
-                        stress after the addition of 1 wt% MWCNTs in Al-MWCNTs
-                        based composite. The ball-milling time of 4 h is found
-                        to be sufficient as excessive milling time destroys a
-                        vast number of MWCNTs.</p>
-                    <a
-                        href="https://link.springer.com/article/10.1007/s12598-012-0523-6"
-                        class="btn btn-primary">Link to J. Rare Metals Paper</a>
-                </div>
-            </div>
+<div class="card-deck">
+    <div class="card text-white bg-dark mb-3" style="max-width: 35rem;">
+        <img class="card-img-top" src="/images/al-cnt.jpg" alt="Card
+            image cap">
+        <div class="card-body">
+            <h5 class="card-title">Fabrication and mechanical properties
+                of MWCNTs-reinforced aluminum composites by hot
+                extrusion</h5>
+            <p class="card-text">
+                Over the past decade, the interest in aluminum
+                composites reinforced with carbon nanotubes has grown
+                significantly. Studies have been carried out to overcome
+                problems with uniform dispersion, interfacial bonding,
+                void formation and carbide formation of the composites.
+                In the present work, multi-wall carbon nanotubes
+                (MWCNTs) aluminum composites were produced. High-energy
+                ball milling with the aim at developing well-dispersed
+                MWCNTs Al composites was followed by cold compaction,
+                sintering, and hot extrusion at 500 °C. Different
+                amounts of stearic acid as processing control agent
+                (PCA) is used in order to minimize cold welding of the
+                Al particles, and to produce finer particles.
+                Differential scanning calorimetry (DSC), scanning
+                electron microscopy (SEM), transmission electron
+                microscopy (TEM), and X-ray diffraction (XRD) were
+                employed to analyze the MWCNTs, the aluminum powder, and
+                the composites’ microstructural behavior. The hardness
+                and tensile properties of the composites are also
+                evaluated. The results showed 500% increase in yield
+                stress after the addition of 1 wt% MWCNTs in Al-MWCNTs
+                based composite. The ball-milling time of 4 h is found
+                to be sufficient as excessive milling time destroys a
+                vast number of MWCNTs.</p>
+            <a
+                href="https://link.springer.com/article/10.1007/s12598-012-0523-6"
+                class="btn btn-primary">Link to J. Rare Metals Paper</a>
         </div>
+    </div>
+</div>
